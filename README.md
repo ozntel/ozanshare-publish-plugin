@@ -4,6 +4,14 @@ This plugin allows you to publish your markdown notes with a single click direct
 
 **IMPORTANT**: This plugin is exclusive to users, who are on `Exclusive` Support level on `BuyMeCoffee`.
 
+To see more details, you can visit the page of `OzanShare Publish`:
+
+<a href="https://ozanshare.web.app" target="_blank">https://ozanshare.web.app</a>
+
+## See How Plugin Works
+
+<a href="https://www.youtube.com/watch?v=tgo3KwH4zOE" target="_blank">Watch on Youtube</a>
+
 ## Plugin Description
 
 1. You need to be on `Exclusive` Support Level on `BuyMeCoffee` to be able to use the plugin. You will receive a **TOKEN** from me to be able to use the plugin and publish feature. For the moment, only limited people can be on this support level. Once you enter the `Token` in plugin settings and click verify, you can start enjoying all features available: <a href="https://www.buymeacoffee.com/ozante" target="_blank">Exclusive Support Level</a>
