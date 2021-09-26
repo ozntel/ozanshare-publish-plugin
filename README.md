@@ -2,7 +2,7 @@
 
 This plugin allows you to publish your markdown notes with a single click directly from your Obsidian vault.
 
-**IMPORTANT**: This plugin is exclusive to users, who are on `Exclusive` Support level on `BuyMeCoffee`.
+**IMPORTANT**: This plugin is only available to users, who are on `Exclusive` Support level on `BuyMeCoffee`.
 
 To see more details, you can visit the page of `OzanShare Publish`: <a href="https://ozanshare.web.app" target="_blank">https://ozanshare.web.app</a>
 
