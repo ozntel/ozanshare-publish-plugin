@@ -4,13 +4,13 @@ This plugin allows you to publish your markdown notes with a single click direct
 
 **IMPORTANT**: This plugin is exclusive to users, who are on `Exclusive` Support level on `BuyMeCoffee`.
 
-To see more details, you can visit the page of `OzanShare Publish`:
-
-<a href="https://ozanshare.web.app" target="_blank">https://ozanshare.web.app</a>
+To see more details, you can visit the page of `OzanShare Publish`: <a href="https://ozanshare.web.app" target="_blank">https://ozanshare.web.app</a>
 
 ## See How Plugin Works
 
-<a href="https://www.youtube.com/watch?v=tgo3KwH4zOE" target="_blank">Watch on Youtube</a>
+<a href="https://www.youtube.com/watch?v=tgo3KwH4zOE" target="_blank">
+    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/Watch%20on%20Youtube.png" width="550px"></img>
+</a>
 
 ## Plugin Description
 
@@ -40,3 +40,7 @@ To see more details, you can visit the page of `OzanShare Publish`:
 8. Each publish triggers a scan of your **PUBLISHED FILES** and **VAULT**. It means you shouldn't remove the references from **FRONTMATTER** manually by hand since it will trigger removing the published note from the server. You should use **UNPUBLISH** feature if you don't need the note anymore to be shared.
 
 9. You can open the published note on **Web Application** directly from **CONTEXT MENU**
+
+## Contact
+
+If you have any issue or you have any suggestion, please feel free to reach me out directly using contact page of my website <a href="https://ozan.pl/contact/" target="_blank">Ozan.pl Contact</a> or directly to <me@ozan.pl>.
