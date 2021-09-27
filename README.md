@@ -6,7 +6,10 @@ Each of your published files will have unique code, which is only available to y
 
 **IMPORTANT**: 
 - This is not an open source project. 
-- The plugin is only available to users, who are on `Exclusive Support Level` on `BuyMeCoffee`: <a href="https://www.buymeacoffee.com/ozante" target="_blank">Exclusive Support Level</a>. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin. You can also reach me out directly using the details from [Contact](#Contact) below to find out more.
+- The plugin is only available to users, who are on `Exclusive Support Level` on `BuyMeCoffee`: <a href="https://www.buymeacoffee.com/ozante" target="_blank">Exclusive Support Level</a>. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin. 
+- Make sure that you provide your `Email address` while you join the `Exclusive Support Level` so that I can deliver you the `TOKEN`:
+    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/buymecoffee-membership.png" width="350px"></img>
+- You can also reach me out directly using the details from [Contact](#Contact) below to find out more.
 
 **REMEMBER**: 
 - This is still early stage for the plugin. There might be some bugs and missing features, which will be gradually improved, implemented. I will be grateful for your kind patience in case you see any bug, error and report me as soon as possible so that I can work on it.
