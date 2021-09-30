@@ -1,5 +1,9 @@
 # OzanShare Publish Plugin
 
+<a href="https://discord.gg/GBV7wHYq">
+   <img src="https://img.shields.io/discord/893092863867486218?logo=discord" alt="chat on Discord" width="120">
+</a>
+
 This plugin allows you to publish your Markdown Notes with a single click directly from your Obsidian vault.
 
 Each of your published files will have unique code, which is only available to you. You can share with someone the link and republish once you make small changes. It will keep the same `code` and `URL`.
