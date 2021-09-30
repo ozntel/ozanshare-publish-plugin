@@ -60,7 +60,7 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 
 6. As long as you don't unpublish your notes and change the place of the file in the vault, the `Republish` function will keep the old publish references. It will help you to update the files you have already shared with someone. You won't need to send a new link.
 
-    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/republish-button.png" width="550px"></img>
+    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/republish-button-2.png" width="550px"></img>
 
 7. `Images` are uploaded to Firebase server, which are also served with a secret token. Image source with the provided token is automatically embedded into your final publish on OzanShare. 
 
