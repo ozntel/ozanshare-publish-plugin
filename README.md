@@ -45,6 +45,7 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 	- Transclusions (and also nested)
 	- Linked Files
 	- Mermaids
+	- MathJax
 	- Code Blocks
 	- Any Basic Markdown String
 
