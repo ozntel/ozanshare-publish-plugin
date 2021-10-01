@@ -41,14 +41,28 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 
 3. Plugin `Renders` the followings as HTML:
 
-	- Admonitions
-	- Transclusions (and also nested)
-	- Linked Files
-	- Mermaids
-	- MathJax
-	- Code Blocks
-	- Any Basic Markdown String
+    - **Any Basic Markdown Content**
+    - **Linked Files**
+	- **Transclusions** (and also nested)
 
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/transclusions.png" width="500" alt="transclusions"></img>
+
+    - **Admonitions**
+
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/admonitions.png" width="500" alt="admonitions"></img>
+
+	- **Mermaids**
+
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/mermaids.png" width="500" alt="mermaid-sample"></img>
+
+	- **MathJax**
+
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/mathjax.png" width="500" alt="mathjax-sample"></img>
+
+	- **Code Blocks**
+
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/code-blocks.png" width="500" alt="code-blocks"></img>
+        
 4. You can also add your `Custom CSS`. Go to settings and use to button to open your `Custom CSS` settings.
 
     <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/custom-css.png" width="400px"></img>
