@@ -10,6 +10,8 @@ Each of your published files will have unique code, which is only available to y
 
 **IMPORTANT**: 
 - This is not an open source project. 
+- Make sure that you are using Obsidian's version `0.12.16` or above. This is the version, which gives access to the plugin to send `Request with Header` and create `Mermaids`. You can check from `Settings > About`:
+    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/obsidian-version.png" width="350"></img>
 - The plugin is only available to users, who are on `Exclusive Support Level` on `Buy Me a Coffee`: <a href="https://www.buymeacoffee.com/ozante" target="_blank">Exclusive Support Level</a>. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin. 
 - Make sure that you provide your `Email address` while you join the `Exclusive Support Level` so that I can deliver you the `TOKEN`:
 
