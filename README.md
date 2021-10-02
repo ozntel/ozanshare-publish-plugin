@@ -14,7 +14,12 @@ Each of your published files will have unique code, which is only available to y
 
     <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/obsidian-version.png" width="350"></img>
     
-- The plugin is only available to users, who are on `Exclusive Support Level` on `Buy Me a Coffee`: <a href="https://www.buymeacoffee.com/ozante" target="_blank">Exclusive Support Level</a>. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin. 
+- The plugin is only available to users, who are on `Exclusive Support Level` on `Buy Me a Coffee`. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin:
+
+    <a href="https://www.buymeacoffee.com/ozante" target="_blank">
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/buymecoffee-exclusive.png" width="230"></img>
+    </a>
+
 - Make sure that you provide your `Email address` while you join the `Exclusive Support Level` so that I can deliver you the `TOKEN`:
 
 	<img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/buymecoffee-membership.png" width="330px"></img>
