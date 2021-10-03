@@ -34,7 +34,7 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 
 ## See How Plugin Works
 
-<a href="https://www.youtube.com/watch?v=tgo3KwH4zOE" target="_blank">
+<a href="https://youtu.be/yrwg4wqUg3A" target="_blank">
     <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/Watch%20on%20Youtube.png" width="550px"></img>
 </a>
 
