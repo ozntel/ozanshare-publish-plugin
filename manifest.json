@@ -1,7 +1,7 @@
 {
 	"id": "ozanshare-publish",
 	"name": "OzanShare Publish",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"minAppVersion": "0.12.16",
 	"description": "Publish your markdown notes with a single click from your vault.",
 	"author": "Ozan Tellioglu",
