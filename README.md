@@ -48,7 +48,7 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 
 3. Your pages are going to be served on [https://ozanshare.web.app/](https://ozanshare.web.app/). You can check the website to see a sample published note.
 
-3. Plugin `Renders` the followings as HTML:
+4. Plugin `Renders` the followings as HTML:
 
     - **Any Basic Markdown Content**
     - **Linked Files**
@@ -72,25 +72,25 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 
         <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/code-blocks.png" width="500" alt="code-blocks"></img>
         
-4. You can also add your `Custom CSS`. Go to settings and use to button to open your `Custom CSS` settings.
+5. You can also add your `Custom CSS`. Go to settings and use to button to open your `Custom CSS` settings.
 
     <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/custom-css.png" width="400px"></img>
 
-5. You can see all your published notes from the `View` created for plugin. Just click the `Ribbon Icon` and list your published notes.
+6. You can see all your published notes from the `View` created for plugin. Just click the `Ribbon Icon` and list your published notes.
 
 
-    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/leaf-view.png" width="300px"></img>
+    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/leaf-view.png" width="550px"></img>
 
 
-6. As long as you don't unpublish your notes and change the place of the file in the vault, the `Republish` function will keep the old publish references. It will help you to update the files you have already shared with someone. You won't need to send a new link.
+7. As long as you don't unpublish your notes and change the place of the file in the vault, the `Republish` function will keep the old publish references. It will help you to update the files you have already shared with someone. You won't need to send a new link.
 
     <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/republish-button-2.png" width="550px"></img>
 
-7. `Images` are uploaded to Firebase server, which are also served with a secret token. Image source with the provided token is automatically embedded into your final publish on OzanShare. 
+8. `Images` are uploaded to Firebase server, which are also served with a secret token. Image source with the provided token is automatically embedded into your final publish on OzanShare. 
 
-8. Each publish triggers a scan of your `Published Files` and `Vault`. It means you shouldn't remove the references from `Frontmatter` manually by hand since it will trigger removing the published note from the server. You should rather use `Unpublish` button if you don't need the note anymore to be shared. This will remove the shared note from the server.
+9. Each publish triggers a scan of your `Published Files` and `Vault`. It means you shouldn't remove the references from `Frontmatter` manually by hand since it will trigger removing the published note from the server. You should rather use `Unpublish` button if you don't need the note anymore to be shared. This will remove the shared note from the server.
 
-9. You can open the published notes on `Web Application` directly from the `Context Menu` or `Copy URL`, which allows to access the note on web.
+10. You can open the published notes on `Web Application` directly from the `Context Menu` or `Copy URL`, which allows to access the note on web.
 
 ## Contact
 
