@@ -79,7 +79,7 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 6. You can see all your published notes from the `View` created for plugin. Just click the `Ribbon Icon` and list your published notes.
 
 
-    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/leaf-view.png" width="550px"></img>
+    <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/leaf-view.png" width="750px"></img>
 
 
 7. As long as you don't unpublish your notes and change the place of the file in the vault, the `Republish` function will keep the old publish references. It will help you to update the files you have already shared with someone. You won't need to send a new link.
