@@ -60,6 +60,10 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 
         <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/admonitions.png" width="500" alt="admonitions"></img>
 
+    - **Excalidraw Drawings**
+
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/excalidraw-drawing.png" width="500" alt="admonitions"></img>
+
 	- **Mermaids**
 
         <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/mermaids.png" width="500" alt="mermaid-sample"></img>
