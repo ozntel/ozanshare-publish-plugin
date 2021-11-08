@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/discord/893092863867486218?logo=discord" alt="chat on Discord" width="120">
 </a>
 
-This plugin allows you to publish your Markdown Notes with a single click directly from your Obsidian vault.
+This plugin allows you to publish your Markdown Notes with a single click directly from your Obsidian vault. It is available on both Mobile and Desktop.
 
 Each of your published files will have unique code, which is only available to you. You can share with someone the link and republish once you make small changes. It will keep the same `code` and `URL`.
 
@@ -28,7 +28,6 @@ Each of your published files will have unique code, which is only available to y
 
 **REMEMBER**: 
 - This is still early stage for the plugin. There might be some bugs and missing features, which will be gradually improved, implemented. I will be grateful for your kind patience in case you see any bug, error and report me as soon as possible so that I can work on it.
-- For the moment, the plugin will be available on Desktop only. Once I find a solution for the error, I plan to allow on mobile, as well.
 
 To see more details, you can visit the page of `OzanShare Publish`: <a href="https://ozanshare.web.app" target="_blank">https://ozanshare.web.app</a>
 
