@@ -14,7 +14,7 @@ Each of your published files will have unique code, which is only available to y
 - The plugin is only available to users, who are on `Exclusive Support Level`. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin (Make sure that you provide your `Email address` correctly)
 
     <a href="https://buy.stripe.com/fZe8wNaOL07MbKg144" target="_blank">
-        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/buymecoffee-exclusive.png" width="230"></img>
+        <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/exclusive-supporter.png" width="230"></img>
     </a>
 
 - You can also reach me out directly using the details from [Contact](#Contact) below to find out more.
