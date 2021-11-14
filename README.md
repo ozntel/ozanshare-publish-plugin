@@ -11,15 +11,11 @@ Each of your published files will have unique code, which is only available to y
 **IMPORTANT**: 
 - This is not an open source project. 
     
-- The plugin is only available to users, who are on `Exclusive Support Level` on `Buy Me a Coffee`. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin:
+- The plugin is only available to users, who are on `Exclusive Support Level`. Once you are in this support level, I will send you the `TOKEN` you can use for the plugin (Make sure that you provide your `Email address` correctly)
 
-    <a href="https://www.buymeacoffee.com/ozante" target="_blank">
+    <a href="https://buy.stripe.com/fZe8wNaOL07MbKg144" target="_blank">
         <img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/buymecoffee-exclusive.png" width="230"></img>
     </a>
-
-- Make sure that you provide your `Email address` while you join the `Exclusive Support Level` so that I can deliver you the `TOKEN`:
-
-	<img src="https://raw.githubusercontent.com/ozntel/ozanshare-publish-plugin/main/images/buymecoffee-membership.png" width="330px"></img>
 
 - You can also reach me out directly using the details from [Contact](#Contact) below to find out more.
 
@@ -36,7 +32,7 @@ To see more details, you can visit the page of `OzanShare Publish`: <a href="htt
 
 ## Plugin Description
 
-1. You need to be on `Exclusive Support Level` on `Buy Me a Coffee` to be able to use the plugin. You will receive a `TOKEN` from me to be able to use the plugin and publish feature. For the moment, only limited people can be on this support level. Once you enter the `TOKEN` in plugin settings and click verify, you can start enjoying all features available: <a href="https://www.buymeacoffee.com/ozante" target="_blank">Exclusive Support Level</a>
+1. You need to be on `Exclusive Support Level` to be able to use the plugin. You will receive a `TOKEN` from me to be able to use the plugin and publish feature. Once you enter the `TOKEN` in plugin settings and click verify, you can start enjoying all features available: <a href="https://buy.stripe.com/fZe8wNaOL07MbKg144" target="_blank">Exclusive Support Level</a>
 
 2. You can `Publish` your notes and all relevant linked notes to the main published note with a single click from the `Context Menu` of the file in the vault:
 
